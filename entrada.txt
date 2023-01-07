@@ -1,0 +1,2 @@
+int valor
+char a
